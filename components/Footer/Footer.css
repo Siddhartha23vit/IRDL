@@ -1,0 +1,5 @@
+@media (max-width:959px) {
+    #Footer .py-6 {
+      order: 3;
+          }
+  }
